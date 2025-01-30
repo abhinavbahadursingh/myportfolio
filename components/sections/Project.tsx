@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { projects } from "@/constants";
 import { Card } from "@/components/ui/card";
 import Image from "next/image";
-import { Button } from "../ui/button";
+import { Button } from "@/components/ui/button";
 import { Badge, ExternalLink, Github } from "lucide-react";
 function Project() {
   return (
